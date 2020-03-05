@@ -1,2 +1,2 @@
 # facilitaenem.github.io
-Site para estudo do enem
+Site para ajudar alunos  de escolas públicas no Enem
